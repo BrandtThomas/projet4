@@ -1,0 +1,7 @@
+Commencer par une explication de Bootstrap.
+
+Initiation à Bootstrap avec un exercice avec des carrés.
+
+
+
+Projet plus important en mettant un place un jumpbotron, des cards et une navbar
